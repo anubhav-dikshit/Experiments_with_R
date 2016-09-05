@@ -1,2 +1,2 @@
 # Experiments_with_R
-My experiments with R and fun datasets
+This Repo contains some fun experiments with R and datasets which serves as my learning experiences
